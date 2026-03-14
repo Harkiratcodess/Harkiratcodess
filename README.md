@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Harkirat 👋
 
-<!--
-**Harkiratcodess/Harkiratcodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Aspiring Web Developer
 
-Here are some ideas to get you started:
+🚀 Passionate about building things with code and constantly learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+* Strengthening **programming fundamentals**
+* Learning **Web Development (HTML, CSS, JavaScript)**
+* Practicing **Data Structures & Algorithms**
+* Exploring **AI-powered tools and applications**
+
+---
+
+## 🛠 Tech I'm Working With
+
+* HTML
+* CSS
+* JavaScript *(currently learning)*
+* Git & GitHub
+
+---
+
+## 📚 Learning Roadmap
+
+* Frontend Development
+* MERN Stack Development
+* Data Structures & Algorithms
+* AI / Machine Learning integration
+
+---
+
+## 🎯 Goals
+
+* Build **real-world projects**
+* Become a **skilled full-stack developer**
+* Contribute to **open-source projects**
+* Work on **AI-powered applications**
+
+---
+
+## ⚡ Philosophy
+
+**Learn → Build → Break → Fix → Repeat**
+
+---
+
+💡 *Currently focused on improving my coding skills and building projects step by step.*
+
+
