@@ -20,16 +20,12 @@
 <div align="center">
 
 ### 🧠 `whoami`
-
 ```js
-const harkirat = {
-  role     : "BCA Student → Full Stack Dev (in progress)",
-  location : "Rajasthan, India 🇮🇳",
-  focus    : ["Web Development", "AI/ML Integration"],
-  stack    : ["HTML", "CSS", "JS", "Node.js", "MongoDB"],
-  currently: "turning caffeine into code ☕",
-  openTo   : ["Internships", "Freelance", "Collabs"],
-};
+
+* BCA Student from Rajasthan, India  
+* Building with JS · Node.js · MongoDB  
+* Learning React and exploring AI/ML  
+* Open to internships and freelance work
 ```
 
 </div>
@@ -51,18 +47,23 @@ const harkirat = {
 </div>
 
 ---
+## skills
 
-## 📡 Currently Downloading...
+<div align="center">
 
-```
-[██████████████░░░░░░░░░░░░░░░░] 45% — JavaScript
-[████████░░░░░░░░░░░░░░░░░░░░░░] 28% — React
-[██████████████████████░░░░░░░░] 72% — Node.js + Express
-[███████████░░░░░░░░░░░░░░░░░░░] 35% — DSA
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░] 12% — AI/ML
-```
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode&theme=dark)](https://skillicons.dev)
 
-> *These bars are honest. No faking 100% skills here.*
+</div>
+
+---
+
+## activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harkiratcodess&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
@@ -86,16 +87,11 @@ const harkirat = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Harkiratcodess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harkiratcodess&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harkiratcodess&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Harkiratcodess&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -137,7 +133,7 @@ LEARN ──▶ BUILD ──▶ BREAK ──▶ DEBUG ──▶ SHIP ──▶ R
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6E40C9)
+![Visitor Count](https://komarev.com/ghpvc/?username=Harkiratcodess&style=flat-square&color=6E40C9)
 
 *Open to internships & freelance projects — let's build something cool 🚀*
 
