@@ -68,6 +68,42 @@ const harkirat = {
 
 </div>
 
+## projects
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎮 Simon Says Game
+Classic memory game built from scratch
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harkiratcodess/simon-say-game)
+[![Live](https://img.shields.io/badge/Live-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://Harkiratcodess.github.io/simon-say-game)
+
+</td>
+<td align="center" width="50%">
+
+### ⚡ Profile Generator
+Generates custom GitHub readme profiles
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harkiratcodess/github-profile-generator)
+[![Live](https://img.shields.io/badge/Live-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://Harkiratcodess.github.io/github-profile-generator)
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ## 🗺️ Roadmap
