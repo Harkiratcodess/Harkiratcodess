@@ -22,10 +22,13 @@
 ### 🧠 `whoami`
 ```js
 
-* BCA Student from Rajasthan, India  
-* Building with JS · Node.js · MongoDB  
-* Learning React and exploring AI/ML  
-* Open to internships and freelance work
+const harkirat = {
+  role: "BCA Student",
+  location: "Rajasthan, India",
+  stack: ["JavaScript", "Node.js", "MongoDB"],
+  learning: ["React", "AI/ML"],
+  status: "Open to internships & freelance"
+};
 ```
 
 </div>
