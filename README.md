@@ -17,48 +17,73 @@
 
 ---
 
+
+
 <div align="center">
 
-### 🧠 `whoami`
-```js
+👨‍💻 **Harkirat** • 18yo • BCA Student • Always Building Something
 
-const harkirat = {
-  role: "BCA Student",
-  location: "Rajasthan, India",
-  stack: ["JavaScript", "Node.js", "MongoDB"],
-  learning: ["React", "AI/ML"],
-  status: "Open to internships & freelance"
-};
-```
+📍 Rajasthan, India &nbsp;|&nbsp; 🎯 MERN Stack in Progress &nbsp;|&nbsp; 🤖 AI/ML is the dream
+
+💡 I don't wait to feel ready — I just start building
 
 </div>
+
+
 
 ---
 
 ## ⚡ The Stack
 
-<div align="center">
-
-| Layer | Tech |
-|-------|------|
-| 🎨 Frontend | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| ⚙️ Backend | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| 🗄️ Database | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| 🔧 Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| 🤖 Exploring | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-
-</div>
-
----
-## skills
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="130px">Layer</th>
+      <th>Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🎨 Frontend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>⚙️ Backend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🗄️ Database</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🔧 Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🤖 Exploring</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## activity
 
