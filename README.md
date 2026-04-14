@@ -99,13 +99,8 @@ Generates custom GitHub readme profiles
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Harkiratcodess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harkiratcodess&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Harkiratcodess&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Harkiratcodess&hide_border=true&background=0d1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideLabels=4CAF50&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
@@ -115,10 +110,9 @@ Generates custom GitHub readme profiles
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harkiratcodess&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harkiratcodess&hide_border=true&area=true&bg_color=0d1117&color=4CAF50&line=4CAF50&point=4CAF50&area_color=4CAF50)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
 ---
 
 ### 🐍 Contributions
