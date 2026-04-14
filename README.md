@@ -154,6 +154,3 @@ Generates custom GitHub readme profiles
 </div>
 ---
 
-## Connect
-
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
