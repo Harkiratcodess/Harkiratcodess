@@ -77,23 +77,9 @@ Generates custom GitHub readme profiles
 
 </div>
 
----
 
-### 🗺️ Roadmap
 
-```
-  ✅  HTML / CSS
-  ✅  JavaScript
-  ✅  Node.js + Express
-  ✅  MongoDB
-  🔄  React                  ← in progress
-  ⏳  Full MERN Projects      ← next
-  ⏳  DSA                     ← ongoing
-  ⏳  AI / ML Integration     ← the dream 🤖
-  ⏳  First Internship        ← the goal  🎯
-```
 
----
 
 ### 📊 Stats
 
@@ -115,27 +101,9 @@ Generates custom GitHub readme profiles
 </div>
 ---
 
-### 🐍 Contributions
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Harkiratcodess/Harkiratcodess/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
-
----
-
-### 💬 Philosophy
-
-<div align="center">
-
-`LEARN → BUILD → BREAK → DEBUG → SHIP → REPEAT`
-
-*"The best way to learn is to build something that scares you a little."*
-
-</div>
-
----
 
 ### 📬 Connect
 
