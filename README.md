@@ -1,118 +1,53 @@
-<div align="center">
+<svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="800" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#bb9af7"/>
+      <stop offset="50%" stop-color="#7dcfff"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="c1"><rect x="0" y="52" width="0" height="26"><animate id="a1" attributeName="width" from="0" to="760" begin="0.4s" dur="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="82" width="0" height="26"><animate id="a2" attributeName="width" from="0" to="760" begin="a1.end+0.25s" dur="1.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="112" width="0" height="26"><animate id="a3" attributeName="width" from="0" to="760" begin="a2.end+0.25s" dur="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="142" width="0" height="26"><animate id="a4" attributeName="width" from="0" to="760" begin="a3.end+0.25s" dur="1.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="0" y="172" width="0" height="26"><animate id="a5" attributeName="width" from="0" to="760" begin="a4.end+0.25s" dur="1.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="0" y="202" width="0" height="26"><animate id="a6" attributeName="width" from="0" to="760" begin="a5.end+0.25s" dur="1.1s" fill="freeze"/></rect></clipPath>
+  </defs>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Harkirat+%F0%9F%91%8B;BCA+Student+%7C+MERN+in+Progress;Building+%2B+Learning+Every+Day" alt="Typing SVG" />
+  <rect x="1.5" y="1.5" width="797" height="237" rx="16" fill="none" stroke="url(#border)" stroke-width="1.5" opacity="0.55" filter="url(#glow)"/>
+  <rect x="4" y="4" width="792" height="232" rx="14" fill="url(#bg)" stroke="#2a2b3d"/>
+  <rect x="4" y="4" width="792" height="36" rx="14" fill="#16161e"/>
+  <rect x="4" y="18" width="792" height="22" fill="#16161e"/>
 
-<br/>
+  <circle cx="28" cy="22" r="6" fill="#f7768e"/>
+  <circle cx="50" cy="22" r="6" fill="#e0af68"/>
+  <circle cx="72" cy="22" r="6" fill="#9ece6a"/>
+  <text x="400" y="27" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="12" fill="#565f89">harkirat@dev-machine — zsh</text>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Harkiratcodess&style=flat-square&color=4CAF50&label=Profile+Views" />
-</p>
+  <circle cx="754" cy="22" r="4" fill="#9ece6a">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
 
-</div>
+  <g font-family="Menlo, Consolas, 'Courier New', monospace" font-size="18">
+    <text x="26" y="70" fill="#bb9af7" clip-path="url(#c1)">$ whoami</text>
+    <text x="26" y="100" fill="#7dcfff" clip-path="url(#c2)">&gt; Harkirat Singh — BCA student, Rajasthan</text>
+    <text x="26" y="130" fill="#bb9af7" clip-path="url(#c3)">$ status --check</text>
+    <text x="26" y="160" fill="#7dcfff" clip-path="url(#c4)">&gt; [OK] building with the MERN stack</text>
+    <text x="26" y="190" fill="#7dcfff" clip-path="url(#c5)">&gt; [OK] curiosity: AI x Web integration</text>
+    <text x="26" y="220" fill="#bb9af7" clip-path="url(#c6)">$ ready_to_ship --now</text>
+  </g>
 
----
-
-### 🧑‍💻 About Me
-
-I'm **Harkirat**, an 18-year-old BCA student from **Rajasthan, India** — building things on the web and slowly working my way into AI/ML.
-
--  Currently learning **React** and sharpening my **MERN** skills
--  Long-term goal: **AI + Web** integration
--  Motto: *I don't wait to feel ready — I just start building*
--  Open to **internships & freelance** projects
-
----
-
-### ⚙️ Tech Stack
-
-<div align="center">
-
-| Frontend | Backend | Database | Tools | Exploring |
-|:---:|:---:|:---:|:---:|:---:|
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-</div>
-
----
-
-### 🚀 Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-**🎮 Simon Says Game**
-
-Classic memory game built from scratch
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harkiratcodess/simon-say-game)
-[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://Harkiratcodess.github.io/simon-say-game)
-
-</td>
-
-<td align="center" width="50%">
-
-**⚡ Profile Generator**
-
-Generates custom GitHub readme profiles
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harkiratcodess/github-profile-generator)
-[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://Harkiratcodess.github.io/github-profile-generator)
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-
-
-
-
-### 📊 Stats
-
-<div align="center">
-
-
-<img src="https://streak-stats.demolab.com/?user=Harkiratcodess&hide_border=true&background=0d1117&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideLabels=4CAF50&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
-### 📈 Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harkiratcodess&hide_border=true&area=true&bg_color=0d1117&color=4CAF50&line=4CAF50&point=4CAF50&area_color=4CAF50)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
----
-
-
-
-
-
-### 📬 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harkirat-singh-79ab213b7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://harkiratcodess.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harkirattcodess@gmail.com)
-
-</div>
----
-
+  <rect x="258" y="202" width="11" height="26" fill="#bb9af7" opacity="0">
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="a6.end" repeatCount="indefinite"/>
+  </rect>
+</svg>
