@@ -29,14 +29,14 @@
   </g>
 
   <text x="34" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#5B6479">IDENTITY.TERMINAL</text>
-  <text x="34" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#E7EAF2">[NAME] // [ROLE]</text>
+  <text x="34" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#E7EAF2">[Harkirat Singh] // [FULL STACK DEVELOPER]</text>
 
   <circle cx="36" cy="102" r="4" fill="#4FD1C5">
     <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
   </circle>
   <text x="50" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#8B93A7">STATUS: ONLINE</text>
 
-  <text x="34" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#5B6479">BUILDING: [CURRENT PROJECT]  ·  EXPLORING: [CURRENT FOCUS]</text>
+  <text x="34" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#5B6479">BUILDING: [BACKEND]  ·  EXPLORING: [AI/ML]</text>
 
   <!-- signal bars -->
   <g transform="translate(600,0)">
